@@ -25,8 +25,8 @@
 <h2>Installation</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/yourusername/password-encryption-decryption-tool.git
-cd password-encryption-decryption-tool</code></pre>
+    <pre><code>git clone https://github.com/IGnet07/Password-Encode-and-Decode-Tool.git
+cd Password-Encode-and-Decode-Tool</code></pre>
   </li>
   <li>Install the required library:
     <pre><code>pip install cryptography</code></pre>
